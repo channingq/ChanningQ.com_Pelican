@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ChanningQ</title><link href="http://channingq.com/" rel="alternate"></link><link href="http://channingq.com/feeds/all-en.atom.xml" rel="self"></link><id>http://channingq.com/</id><updated>2013-03-22T20:35:00-07:00</updated><entry><title>Hello, World</title><link href="http://channingq.com/hello-world.html" rel="alternate"></link><updated>2013-03-22T20:35:00-07:00</updated><author><name>Channing Q. Carter</name></author><id>tag:channingq.com,2013-03-22:hello-world.html</id><summary type="html">&lt;p&gt;This is the first post.&lt;br /&gt;
+More things will be posted eventually!&lt;br /&gt;
+Go to the &lt;a href="http://etsy.com/shop/bestlachan"&gt;Etsy shop&lt;/a&gt; for more interesting things.  &lt;/p&gt;
+&lt;h2&gt;Photos&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;italic&lt;/em&gt; or &lt;em&gt;italic&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;bold&lt;/strong&gt; or &lt;strong&gt;bold&lt;/strong&gt;  &lt;/p&gt;</summary></entry></feed>
